@@ -9,17 +9,6 @@ h2{
   color: #ffffff;
 }
 
-#title{
-  font-weight: normal;
-  font-size: 50px;
-  padding-top: 64px;
-}
-
-.headline{
-  font-weight: 300;
-  font-size: 42px;
-}
-
 p{
   font-size: 21px;
   color: gray;
@@ -30,13 +19,24 @@ a{
   font-size: 16px;
 }
 
-#copyright{
-  text-align: right;
-}
-
-#appvd{
+video{
   padding-top: 64px;
   padding-bottom: 32px;
+}
+
+.headline{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#title{
+  font-weight: normal;
+  font-size: 50px;
+  padding-top: 64px;
+}
+
+#copyright{
+  text-align: right;
 }
 
 #image{
