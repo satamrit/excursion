@@ -1,0 +1,44 @@
+*{
+  background-color: #000000;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1,
+h2{
+  color: #ffffff;
+}
+
+#title{
+  font-weight: normal;
+  font-size: 50px;
+  padding-top: 64px;
+}
+
+.headline{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+a{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+#copyright{
+  text-align: right;
+}
+
+#appvd{
+  padding-top: 64px;
+  padding-bottom: 32px;
+}
+
+#image{
+  padding: 32px 0px 64px 0px;
+}
